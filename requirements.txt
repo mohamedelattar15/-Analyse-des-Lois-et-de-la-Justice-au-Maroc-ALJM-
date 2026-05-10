@@ -1,0 +1,31 @@
+# --- NLP & Text Processing ---
+spacy
+nltk
+camel-tools
+beautifulsoup4
+lxml
+tesseract
+pytesseract
+paddleocr
+
+# --- RAG & Vector Databases ---
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+faiss-cpu
+networkx
+neo4j
+
+# --- LLMs & Embeddings ---
+transformers
+sentence-transformers
+torch
+huggingface_hub
+
+# --- API & UI ---
+flask
+streamlit
+plotly
+pandas
+python-dotenv
